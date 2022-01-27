@@ -1,0 +1,2 @@
+# Shakki
+Tekemäni shakkipeli ohjelmointikurssilla
