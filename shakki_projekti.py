@@ -1,25 +1,18 @@
 """
-COMP.CS.100 13.10 Projekti: Graafinen kayttoliittyma: Shakki
 Tekijä: Juliusz Kotelba
-Opiskelijanumero: 150586775
 
 Tämä ohjelma on Shakki. Tätä peliä voi pelata kahdestaan tai yksin.
-Logiikkana on listan luonti, jossa on kahdeksan listaa. Jokainen lista listassa
+Logiikkana on listan luonti, jossa on kahdeksan listaa sisällä. Jokainen lista listassa
 vastaa siis yhtä vaakariviä laudalla. Sen avulla ohjelma rakentaa grafiikan. Listaa
 päivitetään aina kun nappulaa siirretään.
 
 Ohjelma osaa reagoida laittomiin siirtoihin sekä erikoissiirtoihin. Ainoa mitä ohjelma
-ei osaa on sotilaan korotus ja shakin tunnistaminen. Olen tietysti yrittänyt tehdö molempia,
+ei osaa on sotilaan korotus ja shakin tunnistaminen. Olen tietysti yrittänyt tehdä molempia,
 mutta yritykset eivät tuottaneet mitään toimivaa.
 
 Ohjelmassa on myös integroidu siirron peruutus, uuden pelin aloittaminen valikosta sekä
-lyhyehkö sääntökirja. Sööntökirja on siis luokka luokassa ja sen periaate on näyttää
-wikipediasta otettut näyttökuvat kyseisestä aiheesta.
-
-Pyydän tätä arvosteltavaksi kehittyneenä käyttäliittymänä, koska olen tutustunut
-itsenäisesti valikkoon ja soveltanut sitä kahdessa paikassa sekä käyttänyt tähän
-projektiin tosi poljon vapaa-aikaani.
-
+lyhyehkö sääntökirja. Sääntökirja on siis luokka luokassa ja sen periaate on näyttää
+wikipediasta otetut näyttökuvat kyseisestä aiheesta.
 
     Ohjeet:
 Peliä pelataan painamalla ensin nappulaa, jota haluaa liikuttaa. Sitten painamalla
@@ -33,7 +26,7 @@ Pelissä ei erikseen tule ilmoitus pelin päättymisestä, koska:
 a) sen tekiminen veisi järjettömän paljon aikaa
 b) käytännössä peli useimmiten päättyy luovutukseen tai sovittuun tasapeliin
 
-Jos haluaa aloittaa pelin uudestaan, voi sen tehö päävalikosta.
+Jos haluaa aloittaa pelin uudestaan, voi sen tehä päävalikosta.
 
 Jos sinulla tulee lisäkysymyksiä ohjelmastani voit ottaa yhteyttä osoitteeseen:
 juliusz.kotelba(at)tuni.fi
